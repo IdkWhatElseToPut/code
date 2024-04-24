@@ -1,0 +1,13 @@
+// Check to see if the projectile has hit an enemy
+	public boolean checkCollision(){
+	
+			
+			// x1, width1, x2, width2, height1 and height2 are placeholders
+			if( x1+width1 >= x2 && x1 <= x2 + width2  &&  
+				y1+height1 >= y2 && y1 <= y2 + height2 ) {
+				
+				return true;
+			}
+		}
+		return false;
+	}
