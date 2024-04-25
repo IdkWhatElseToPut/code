@@ -1,0 +1,19 @@
+Testing Part A:
+Secret Word: mississippi
+Guess is i, scoreGuess=4
+Guess is iss, scoreGuess=18
+Guess is issipp, scoreGuess=36
+Guess is mississippi, scoreGuess=121
+
+Secret Word: aaaabb
+Guess is a, scoreGuess=4
+Guess is aa, scoreGuess=12
+Guess is aaa, scoreGuess=18
+Guess is aabb, scoreGuess=16
+Guess is c, scoreGuess=0
+
+Testing Part B
+Comparing ten and nation.
+Better guess is: nation
+Comparing con and cat.
+Better guess is: con
