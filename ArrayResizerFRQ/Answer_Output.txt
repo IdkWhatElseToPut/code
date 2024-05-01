@@ -1,0 +1,9 @@
+Testing Part A:
+ArrayResizer.isNonZeroRow(arr, 0): false
+ArrayResizer.isNonZeroRow(arr, 1): true
+ArrayResizer.isNonZeroRow(arr, 2): false
+ArrayResizer.isNonZeroRow(arr, 3): true
+
+Testing Part B:
+1       3       2
+4       5       6

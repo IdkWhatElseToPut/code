@@ -1,0 +1,10 @@
+CombinedTable c1 = new CombinedTable(t1, t2)
+c1.canSeat(9) - true
+c1.canSeat(11) - false
+c1.getDesirability() - 65.0
+
+CombinedTable c2 = new CombinedTable(t1, t3);
+c2.canSeat(18) - true
+c2.getDesirability() - 62.5
+t2.setViewQuality(80)
+c2.getDesirability() - 67.5
